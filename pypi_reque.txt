@@ -1,0 +1,4 @@
+insightface
+face_recognition
+cv2
+torch
