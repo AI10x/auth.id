@@ -50,4 +50,4 @@ python3 face_verify.py
 -Might crash on screen-lock and halt the program in total (restarting is recommended) 
 - Requires great lighting 
 
-#kudos decvb for repo
+#kudos decvb for repo README Template
